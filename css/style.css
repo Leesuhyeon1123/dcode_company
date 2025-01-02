@@ -146,7 +146,8 @@ section .inner .section-wrap article:last-child {
   margin-right: 0;
 }
 .section-wrap article .pic {
-    position: relative;
+  margin-bottom: 10px;
+  position: relative;
   width: 100%;
   height: 120px;
   overflow: hidden;
@@ -155,19 +156,19 @@ section .inner .section-wrap article:last-child {
   position: absolute;
   top: 50%;
   transform: translateY(-50%);
-    width: 100%;
+  width: 100%;
   /* height: 100%; */
 }
 
-.section-wrap article h3{
-    margin-bottom: 10px;
+.section-wrap article h3 {
+  margin-bottom: 10px;
 }
-.section-wrap article h3 a{
-    font: bold 16px/1 "arial";
-    color: #555;
+.section-wrap article h3 a {
+  font: bold 16px/1 "arial";
+  color: #555;
 }
 
-.section-wrap article p{
-    font: 14px/1.4 "arial";
-    color: #777;
+.section-wrap article p {
+  font: 14px/1.4 "arial";
+  color: #777;
 }
