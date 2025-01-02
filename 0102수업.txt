@@ -1,0 +1,4 @@
+assets : 문서, 이미지, 잡다한거저장하는 폴더
+
+소스트리 main으로 변경 하는 방법: 
+터미널 -> git branch -M main -> enter
